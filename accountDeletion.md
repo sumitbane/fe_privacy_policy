@@ -23,5 +23,5 @@ If you have any questions or encounter any issues during this process, please fe
 
 Thank you for using our app, and we respect your choice regarding your data and account.
 
-Best regards,
+Best regards,<br>
 [Family Expenses]
